@@ -1,0 +1,73 @@
+body {
+  padding: 50px;
+  /*background-color: #66CCFF;*/
+  background-image: url(../images/logo.svg);
+   /*opacity: 0.3;*/
+  /*filter: alpha(opacity=50);*/
+  font-family: sans-serif;
+}
+h1 {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+li {
+    color: #2A2C2E;
+    line-height: 1.5em;
+    font-size: 30px;
+    /*font-weight: bold;*/
+    background-color: white; 
+    border: 1px solid black;
+    border-radius: 20px;
+    /*text-decoration: none;*/
+    list-style: none;
+    padding: 20px;
+}
+ul {
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+input.form-control {
+    height: 60px;
+    color: black;
+    /*opacity: 0.3;*/
+    /*filter: alpha(opacity=50);*/
+}
+/*.btn {*/
+    /*opacity: unset;*/
+/*}*/
+/*.todoMain .head input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #FFF;
+}
+.todoMain .head {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  background-color: #0066FF;
+  color: #FFF;
+  border: 2px solid #0066FF;
+}
+ 
+/*.todoMain .head button:hover {
+  background-color: #003399;
+  border: 2px solid #003399;
+  cursor: pointer;
+}*/
+
+/*.todoMain .theList {
+  list-style: none;
+  padding-left: 0;
+  width: 255px;
+}
+ 
+.todoMain .theList li {
+  color: white;
+  background-color: rgba(255,255,255,.5);
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}*/
